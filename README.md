@@ -22,4 +22,5 @@ For this, we apply each and every feature on all the training images. For each f
 
 
 <b>Final o/p:<b/>
+ <br/>
 ![Uploading image.png…]()
